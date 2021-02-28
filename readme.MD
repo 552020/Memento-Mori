@@ -2,9 +2,11 @@
 
 Variation on a code example of Flangan. (Flanagan, JavaScript: The Definitive Guide, Seventh Edition, 2020: 412)
 
-#status
+# status
 
 not really happy with the color palette and typography, but also not so much time to spend on it.
+
+check it online [here](https://552020.github.io/Memento-Mori/)
 
 # languages
 
