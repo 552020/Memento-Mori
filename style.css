@@ -1,0 +1,60 @@
+body {
+  margin: 0px !important;
+  padding: 0px !important;
+  background-color: #e8f044;
+}
+
+h1 {
+  font-family: "Staatliches", cursive;
+  font-size: 8vw;
+  text-align: center;
+  margin: 0px;
+  padding-top: 6vw;
+  color: #00bdaa;
+}
+
+h2 {
+  color: #f1e7b6;
+  color: #e8f044;
+  color: #00bdaa;
+  color: #fe346e;
+  color: white;
+  color: salmon;
+  color: #e8f044;
+}
+
+#clock {
+  font: bold 24px sans-serif; /* Use a big bold font */
+  font-family: "Staatliches", cursive;
+  font-size: 8vw;
+  /*background: #ddf;  on a light bluish-gray background. 
+  background: white;*/
+  padding: 0px; /* Surround it with some space */
+  /*border: solid black 2px;  and a solid black border */
+
+  border-radius: 10px; /* with rounded corners. */
+
+  text-align: center;
+}
+
+.memento {
+  background-color: #400082;
+}
+
+.clock {
+  background-color: #fe346e;
+  background-color: #dc2ade;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+
+@media screen and (max-width: 900px) {
+  h1 {
+    font-size: 11vw;
+  }
+  #clock {
+    font-size: 13vw;
+  }
+}
+
+/* PALETTE https://colorhunt.co/palette/177825 */
